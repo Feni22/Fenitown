@@ -1,7 +1,7 @@
 # Strenghts
-- First level Reproducibility
-- First level Great for collaboration
+- Reproducibility
+- Great for collaboration
 
 # Weaknesses
-- First level Struggles with binary files
-- First level History takes up file space
+- Struggles with binary files
+- History takes up file space
